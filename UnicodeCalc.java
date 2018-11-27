@@ -8,11 +8,7 @@ public class UnicodeCalc {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
-		/*
-		 * Start 2 strings
-		 * create user inputs initial conditions
-		 * print 
-		 */
+		
 		String usrInput1 = "";  // storing the value of userInput 1 
 		String usrInput2 = "";  // storing the value of user input 2 
 		int word1Length = 0; 
